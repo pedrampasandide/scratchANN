@@ -6,7 +6,7 @@
 - Update `Makefile` to reference `demo_BreastCancer.c` instead of `demo.c`.
 - The Breast Cancer dataset has been downloaded and saved as `breast_cancer_data.txt`, using the Python code provided in the Appendix. The file is formatted to be compatible with the `ReadDataFromFile()` function.
 - The rest is exactly the same. `make` and `./sample` to run.
-- For more details, check out the [YouTube **scratchANN** playlist](URL), where the case study trains the model using **scratchANN** and compares the results with an MLP implemented in TensorFlow Keras.
+- For more details, check out the [YouTube **scratchANN** playlist](https://youtu.be/3YAi5TZyRdw?si=2P4CJl3ooP_-jXgl), where the case study trains the model using **scratchANN** and compares the results with an MLP implemented in TensorFlow Keras.
 
 
 ## Appendix
