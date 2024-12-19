@@ -8,7 +8,7 @@
 - Update `Makefile` to reference `demo_MNIST784.c` instead of `demo.c`.
 
 - The rest is exactly the same. `make` and `./sample` to run.
-- For more details, check out the [YouTube **scratchANN** playlist](URL), where the case study trains the model using **scratchANN** and compares the results with an MLP implemented in TensorFlow Keras.
+- For more details, check out the [YouTube **scratchANN** playlist](https://youtu.be/EOkAwQHKJ08?si=fGY6ULDRn3y9BiYy), where the case study trains the model using **scratchANN** and compares the results with an MLP implemented in TensorFlow Keras.
 
 
 ## Appendix
