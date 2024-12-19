@@ -81,3 +81,8 @@ This project is licensed under the GNU General Public License (GPL). See the LIC
 
 Current version: **v1.0.0**
 
+---
+
+## YouTube
+For more details, check out the [YouTube **scratchANN** playlist](https://youtu.be/lqer6m9iRuk?si=k4eLGcgwCKmvsROV), where the case study trains the model using **scratchANN** and compares the results with an MLP implemented in TensorFlow Keras.
+
